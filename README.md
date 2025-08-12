@@ -28,8 +28,10 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 ├── style.css → Stil dosyası
 └── script.js → Uygulama mantığı
 ```
+---
 
-
+## Ekran Görüntüsü
+![https://github.com/sedanurpeker/Su-Takipcisi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-12%20111221.png](https://github.com/sedanurpeker/Su-Takipcisi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-12%20111221.png)
 ---
 
 ## Kullanım
